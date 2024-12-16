@@ -1,5 +1,8 @@
 ﻿# Skill-Taxonomy-System
 This Skill Taxonomy System is running with 
+Laravel , PHPmyAdmin 
+Use Xammp because i dont have live host database at that time 
+
 MySQL Database Naming : app-fyp
 You can find data seeding in : app-fyp.sql
 
